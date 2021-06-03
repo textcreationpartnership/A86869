@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble representation and address to His Highness of several churches &amp; Christians in South--VVales, and Monmouth-Shire. Presented Thursday January 31.</title>
+         </titleStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86869</idno><idno type="EEBO-CITATION">99866686</idno>
+  <idno type="VID">118968</idno>
+  <idno type="EEBO-PROQUEST">2240957491</idno>
+  
+            <idno type="STC">Wing H3630</idno>
+            <idno type="STC">Thomason E866_3</idno>
+            <idno type="STC">ESTC R207648</idno>
+            <idno type="PROQUEST">99866686</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866686e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118968)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 131:E866[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble representation and address to His Highness of several churches &amp; Christians in South--VVales, and Monmouth-Shire. Presented Thursday January 31.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field; printers to His Highness,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLVI [1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: A word for God. Or a testimony on truths behalf.</note>
+                  <note>Annotation on Thomason copy: "&amp; printed 9th Feb: 1655"; also the last number of the imprint date has been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Word for God. Or A testimony on truths behalf.</term>
+               <term type="topical_term">Church and state --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118968:1"/>
+            <p>The Humble REPRESENTATION AND ADDRESS TO His Highness OF SEVERAL CHURCHES &amp; CHRISTIANS IN SOUTH—WALES, AND Monmouth-Shire.</p>
+            <p>
+               <hi>Presented Thursday January</hi> 31.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field;</hi> Printers to His Highness, MDCLVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="address">
+            <pb facs="tcp:118968:2"/>
+            <pb n="1" facs="tcp:118968:2"/>
+            <head>
+               <hi>To His Highness</hi> Oliver <hi>Lord Prote<g ref="char:EOLhyphen"/>ctor of the Commonwealth of</hi> Eng<g ref="char:EOLhyphen"/>land, Scotland, <hi>and</hi> Ireland, <hi>and the Dominions and Terri<g ref="char:EOLhyphen"/>tories thereunto belonging.</hi>
+            </head>
+            <head>
+               <hi>The humble Representation and Address of several Churches and Christians in</hi> Southwales <hi>and</hi> Mon<g ref="char:EOLhyphen"/>mouth-Shire.</head>
+            <opener>
+               <salute>May it please your Highness,</salute>
+            </opener>
+            <p>WE should yet longer have contented our selves with praying and praising God for you in secret, and taken advantage from our distance, as to publique affairs, and from your Highness most Christian and favourable understand<g ref="char:EOLhyphen"/>ing of us, to have still forborn any address of this manner to you, but that a late printed Paper, enti<g ref="char:EOLhyphen"/>tuled, <hi>A word for God, or a Testimony, &amp;c. from seve<g ref="char:EOLhyphen"/>ral Churches, and divers hundreds of Christians in</hi> Wales, <hi>&amp;c.</hi> comming to our view (the largeness of which ti<g ref="char:EOLhyphen"/>tle, to those that did not compare it with the subscrip<g ref="char:EOLhyphen"/>tions,
+<pb n="2" facs="tcp:118968:3"/> nor know that Country, might seem to in<g ref="char:EOLhyphen"/>volve under it the generality of the good people there) We therefore think our selves lowdly called upon to assure your Highness, that most of such as fear the Lord in that Country are not led aside with those temptations; but continue still, through grace, such as you judged them once to be, highly esteeming and honouring not only your person, as being before them in Christ; but also that Government and Magistra<g ref="char:EOLhyphen"/>cy, which God by most eminent and signal providen<g ref="char:EOLhyphen"/>ces hath called you to the exercise of over these Nations, and cannot now but in the rear of some thousands of good people bear our testimony in this manner to it, as that wherein at present we believe the cause and interest of God so long contended for, the protection of the Saints, the liberty of the Gospel, the just rights of all the people, are, under God, im<g ref="char:EOLhyphen"/>barqued; And we cannot see if some, who are so earnestly set against this Government (and for no o<g ref="char:EOLhyphen"/>ther visibly) had their wills, how these mercies can be preserved to us. And indeed (my Lord) it hath not a little affected us, that while you are sitting at the Stern, and wrestling with difficulties for us, any professing Christ (and especially from among us) should the while be doing the thing that tends evi<g ref="char:EOLhyphen"/>dently to sink the whole Vessel. Nor can you easily judge how much we are grieved, that your Highness should have any seeming occasion to think the gene<g ref="char:EOLhyphen"/>rality of the poor Saints of <hi>Wales,</hi> who were once so much your joy, should now so sadly degenerate, as to have head, heart or hand in this unseemly Paper. And though we hope we should have hearts to bless
+<pb n="3" facs="tcp:118968:3"/> God for you exceedingly, if we might but under you lead a quiet and peaceable life, in all Godliness and honesty (as who, having a heart to it, may not, and be also greatly encouraged from the authority) which is a mercy would have been valued at another rate by our Fore-fathers, and such as no Nation in the world besides, that we hear of, do enjoy; yet we cannot rest there, but must acknowledge that (which in pri<g ref="char:EOLhyphen"/>vate hath rejoiced our hearts) wee see other good things upon the wheel. Endeavours and waies taken to remove all oppression from the bodyes of men also. Godly Governours appointed into all parts to pro<g ref="char:EOLhyphen"/>tect the well-affected, and discountenance sin and wickedness; Taxes lessened as far, (at least) as the safety and preservation of the whole could give way; Godly Protestants of Foreign parts owned and sym<g ref="char:EOLhyphen"/>pathized with in their Distress; Designs laid in the most probable way for the extirpation of Popery, and making further passage for the Gospel and King<g ref="char:EOLhyphen"/>dome of our Lord in the world, which the hearts and spirits of the Saints, for these many hundred years have been engaged on; and yet we wonder Friends that seemed once to be of the same minde, should take the advantage that was too sadly given the E<g ref="char:EOLhyphen"/>nemy, to pass so hard a sentence upon the Works of God, whose waies are in the deep, not weighing a<g ref="char:EOLhyphen"/>right what experience might have taught us all ere this, that his usual course is to pull down where he intends to build, and to make instruments base and vile, that his own arm may be considered when he shall appear with them, and we humbly take notice, that not onely in this case, men run before God in
+<pb n="4" facs="tcp:118968:4"/> prescribing wayes and times for the bringing forth the merciful dispensations he hath promised to these latter daies, seem to have a spirit to the work in their own time and way, but none in Gods.</p>
+            <p>And for what remains undone of all that was de<g ref="char:EOLhyphen"/>clared, prayed and fought for, we and the rest of our Brethren of this Commonwealth may, if we would deal faithfully with God and with our selves, justly acknowledge that our grievious Sins and our sad and unparrallel'd abuse of those manifold mercies already received, together with that monstrous pettishness, and too common an indisposition in divers good men to follow God, and to yield cheerfull obedience to him in your government (which doubtless is of his own workmanship) is the real proper cause why any good thing hoped for by any man is so sadly retarded and in<g ref="char:EOLhyphen"/>dangered. It is not our meaning to trace our Brethren in all the particulars mentioned in that Paper, as the imprisoning some Noblemen, <hi>&amp;c.</hi> which we conceive to be the mildest course could be taken, and keep them from ruining themselves, and hazard the whole Nation with them; and we wish, in naming such, with that respect they do, though Cavaliers and E<g ref="char:EOLhyphen"/>nemies, our Brethren to magnify the opposition, do not forget the Spirit themselves were once of to<g ref="char:EOLhyphen"/>wards them, and all their Party; Nor what they urge touching the continuing the Army, together with the Taxes, Customs, Excise, &amp;c. even as they say in a time of Peace, without considering by what hands, under God, that peace and all the mercies with it, as it was obtained, is to this very hour (and as yet cannot, without a miracle be otherwise) conserved
+<pb n="5" facs="tcp:118968:4"/> to us; Onely we are so far from undervaluing, that we must remember and own with them the noble prin<g ref="char:EOLhyphen"/>ciples that were in some of our Patriots in the old Parliament; and the frequent appearances of God for his cause and people during their sitting, and yet wonder our Brethren should so soon forget their own sense of them in the latter end, how weary they were grown of their Government, and how far they were then from judging it to be a dishonour to God, a scandal to Religion, or grief to good men, to have a period put to that Authority. But we greatly fear many of our dear Brethren take too too much liberty to censure the manifest revolutions and actions, that the right hand of God hath brought forth amongst us, and to ravel into, and put contrary senses on those passages of providence, which themselves toge<g ref="char:EOLhyphen"/>ther with the generation of the Saints had once written <hi>Ebenezer</hi> upon; which God in his own time will (we hope) mercifully convince them of. In the mean space, as we have (through grace) some fel<g ref="char:EOLhyphen"/>low-feeling with you in your burthens, so we rejoice in the goodness of God to you, that hath armed you with such a measure of strength, as in the middest of trouble enough from other hands to be able to bear with the numerous oppositions; contradictions and infirmities of the weak Saints, and while that Spirit that is in them (which perhaps they know not) car<g ref="char:EOLhyphen"/>ried them to be pulling down the Wall and hedge God hath set about them, that you should still con<g ref="char:EOLhyphen"/>tinue a protection and defence to them and us, and not to be discouraged in the work of God under your hands, and we trust that the provocations, and evil
+<pb n="6" facs="tcp:118968:5"/> of this late Paper (though it be very great) will not prevail over that glorious spirit in you, but that you will still in some likeness to your heavenly Father, be doing good for evil, and rendring love and compassi<g ref="char:EOLhyphen"/>on for perverseness, and so convince calumny it self. And God, even your God, will be with you in the rest of the works he hath given you to do; And (af<g ref="char:EOLhyphen"/>ter we hope many years longer over us) reckon you amongst the Overcommers, and welcom you into his own eternal joy and glory, which is the prayers of</p>
+            <closer>
+               <signed>Your Highness most humble Ser<g ref="char:EOLhyphen"/>vants and Subjects in the Lord.
+<list>
+                     <item>
+                        <hi>Ralph Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Harry</hi>
+                     </item>
+                     <item>
+                        <hi>George Robinson</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Rogers</hi>
+                     </item>
+                     <item>
+                        <hi>John Nicholas</hi>
+                     </item>
+                     <item>
+                        <hi>William Blethin</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Herbert</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Martin</hi>
+                     </item>
+                     <item>
+                        <hi>John Williams</hi>
+                     </item>
+                     <item>
+                        <hi>George Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Parker</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Jones</hi>
+                     </item>
+                     <item>
+                        <hi>John Gregory</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Calles</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Peather</hi>
+                     </item>
+                     <item>
+                        <hi>William Arnold</hi>
+                     </item>
+                     <item>
+                        <hi>John Watkins,</hi>
+                     </item>
+                     <item>
+                        <hi>Lewes Rogers</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Jones</hi>
+                     </item>
+                     <item>
+                        <hi>James Kemeys</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Watkins</hi>
+                     </item>
+                     <item>
+                        <hi>Walter William</hi>
+                     </item>
+                     <item>
+                        <hi>Harry John</hi>
+                     </item>
+                     <item>
+                        <hi>Wlliam John</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Curnock</hi>
+                     </item>
+                     <item>
+                        <hi>Griffin Jenkin,</hi>
+                     </item>
+                     <item>
+                        <hi>William Pitcher</hi>
+                     </item>
+                     <item>
+                        <hi>Francis John</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Howel</hi>
+                     </item>
+                     <item>
+                        <hi>Andrew Lewes</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis Richard</hi>
+                     </item>
+                     <item>
+                        <hi>George Edwards</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan William</hi>
+                     </item>
+                     <item>
+                        <hi>Hopkin Rogers</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Rosser</hi>
+                     </item>
+                     <item>
+                        <hi>John Bygan</hi>
+                     </item>
+                     <item>
+                        <hi>Rosser Edward</hi>
+                     </item>
+                     <item>
+                        <hi>Walter William</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Howel</hi>
+                     </item>
+                     <item>
+                        <hi>William Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Giles Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Rosser Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Harry Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. John</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Arney</hi>
+                     </item>
+                     <pb n="7" facs="tcp:118968:5"/>
+                     <item>
+                        <hi>Robert Baker</hi>
+                     </item>
+                     <item>
+                        <hi>William Richard</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis Evan</hi>
+                     </item>
+                     <item>
+                        <hi>John Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Knewill Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Walter William</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas William</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Hutton</hi>
+                     </item>
+                     <item>
+                        <hi>John Baker</hi>
+                     </item>
+                     <item>
+                        <hi>George Ambrose</hi>
+                     </item>
+                     <item>
+                        <hi>William Packer</hi>
+                     </item>
+                     <item>
+                        <hi>Edmund Jones</hi> of <hi>Itton</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Richard</hi> jun.</item>
+                     <item>
+                        <hi>Thomas George</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Radock</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Charnock</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Walter</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Jenkins</hi>
+                     </item>
+                     <item>
+                        <hi>John Taylor</hi>
+                     </item>
+                     <item>
+                        <hi>John Perin</hi>
+                     </item>
+                     <item>
+                        <hi>John Walter</hi>
+                     </item>
+                     <item>
+                        <hi>John Jones</hi>
+                     </item>
+                     <item>
+                        <hi>John Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>William Philips</hi>
+                     </item>
+                     <item>
+                        <hi>Rosser Williams</hi>
+                     </item>
+                     <item>
+                        <hi>William Potheras</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Pen</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Namer</hi>
+                     </item>
+                     <item>
+                        <hi>David Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Sincus</hi>
+                     </item>
+                     <item>
+                        <hi>William Bide</hi>
+                     </item>
+                     <item>
+                        <hi>Wroth Richard</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Buller</hi>
+                     </item>
+                     <item>
+                        <hi>John Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas White</hi>
+                     </item>
+                     <item>
+                        <hi>James Morris</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Evans</hi>
+                     </item>
+                     <item>
+                        <hi>Gresham Bray</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Jenkins</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Williams</hi>
+                     </item>
+                     <item>
+                        <hi>John Davies</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>David Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Caple</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Richards</hi>
+                     </item>
+                     <item>
+                        <hi>George White</hi>
+                     </item>
+                     <item>
+                        <hi>Lawrence Nonney</hi>
+                     </item>
+                     <item>
+                        <hi>William Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Iones</hi>
+                     </item>
+                     <item>
+                        <hi>William Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Evans</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Morris</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Powell</hi>
+                     </item>
+                     <item>
+                        <hi>R. Ouldaukine</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Bowens</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Daniel</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Mau: Bedwill</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Roberts</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Philips</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Daniel</hi> juni.</item>
+                     <item>
+                        <hi>Rowland Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Whithear</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Daniel</hi>
+                     </item>
+                     <item>
+                        <hi>Hopkin Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>William Price</hi>
+                     </item>
+                     <item>
+                        <hi>Frankl. Matthews</hi>
+                     </item>
+                     <item>
+                        <hi>Lancelot William</hi>
+                     </item>
+                     <item>
+                        <hi>Evan ab Owen</hi>
+                     </item>
+                     <item>
+                        <hi>Robert William</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Biy<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Higgs</hi>
+                     </item>
+                     <item>
+                        <hi>William Richard</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Ienkin Byvan</hi>
+                     </item>
+                     <item>
+                        <hi>Marma. Matthews</hi>
+                     </item>
+                     <item>
+                        <hi>William Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Griffin Bowen</hi>
+                     </item>
+                     <item>
+                        <hi>William Prichard</hi>
+                     </item>
+                     <item>
+                        <hi>David Bayly</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Retherought</hi>
+                     </item>
+                     <item>
+                        <hi>Matthew Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Lewes</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Philips</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Griffiths</hi>
+                     </item>
+                     <item>
+                        <hi>Moor Py</hi>
+                     </item>
+                     <item>
+                        <hi>William Bayly</hi>
+                     </item>
+                     <item>
+                        <hi>William Morris</hi>
+                     </item>
+                     <pb n="8" facs="tcp:118968:6"/>
+                     <item>
+                        <hi>Iohn Ace</hi>
+                     </item>
+                     <item>
+                        <hi>Ienkin Tayler</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Bevan</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Lucas</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Knaeth</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn David</hi>
+                     </item>
+                     <item>
+                        <hi>William Rogers</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn French</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Powel</hi>
+                     </item>
+                     <item>
+                        <hi>Edmund Ellis</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Gamage</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Puel</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Nicols</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Gowler</hi>
+                     </item>
+                     <item>
+                        <hi>Griffith Daryld</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>William watkins</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Davies</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Bartet</hi>
+                     </item>
+                     <item>
+                        <hi>Ienkin Edward</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Lewelin</hi>
+                     </item>
+                     <item>
+                        <hi>Ienkin Elliot</hi>
+                     </item>
+                     <item>
+                        <hi>Ienkin Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Nichol</hi>
+                     </item>
+                     <item>
+                        <hi>Christopher Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>George Matthew</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Samuel</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Walker</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Morse</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Wrinch</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam VVrinch</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Thamas</hi>
+                     </item>
+                     <item>
+                        <hi>Ienkin Lloid</hi>
+                     </item>
+                     <item>
+                        <hi>Matthew Cuffe</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Cuffe</hi>
+                     </item>
+                     <item>
+                        <hi>VVaking Nicholas</hi>
+                     </item>
+                     <item>
+                        <hi>Waking Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Leyson Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Arnold Griffith</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Robeot</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Griffith Richards</hi>
+                     </item>
+                     <item>
+                        <hi>Ienkin Evan</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Davids</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Lutton</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Howel</hi>
+                     </item>
+                     <item>
+                        <hi>David Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam David</hi>
+                     </item>
+                     <item>
+                        <hi>Griffith Howel</hi>
+                     </item>
+                     <item>
+                        <hi>Rawleigh Fox</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Grifith</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Cook</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Nichol</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Harry</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>David Lewelin</hi>
+                     </item>
+                     <item>
+                        <hi>Ienkin Griffith</hi>
+                     </item>
+                     <item>
+                        <hi>Howell Prichard</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Howel</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Rees William</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan David</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Howel</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Howel</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Griffith</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Matthew</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Evan</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis Harry</hi>
+                     </item>
+                     <item>
+                        <hi>VVatkin Robert</hi>
+                     </item>
+                     <item>
+                        <hi>VVatkin Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Moses</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Harry Philip</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Iohn William</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Lewelin John</hi>
+                     </item>
+                     <item>
+                        <hi>Andrew Rosser</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Phillips</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Rosser Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Bruir</hi>
+                     </item>
+                     <item>
+                        <hi>Reinold Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>VVatkin Jones</hi>
+                     </item>
+                     <pb n="9" facs="tcp:118968:6"/>
+                     <item> John Day</item>
+                     <item>Wiliiam Morgan</item>
+                     <item>Edw. Rowland</item>
+                     <item>Edward Lloid</item>
+                     <item>Henry Morgan</item>
+                     <item>Mor. Tho. Gunter</item>
+                     <item>Evan Jones</item>
+                     <item>William Philip</item>
+                     <item>Edward Gabriel</item>
+                     <item>Miles Bruer</item>
+                     <item>William Jenkins</item>
+                     <item>Evan Rosser Tho.</item>
+                     <item>Lewis Morgan</item>
+                     <item>John Barckley</item>
+                     <item>Tho. ap Thomas</item>
+                     <item>Howel John</item>
+                     <item>Rosser Richard</item>
+                     <item>William Richard</item>
+                     <item>Water Howel</item>
+                     <item>Knywilling John</item>
+                     <item>Rob. Williams</item>
+                     <item>Henry Williams</item>
+                     <item>Will. Williams</item>
+                     <item>Edmund Turban</item>
+                     <item>Evan Rosser Tho.</item>
+                     <item>Giles Lewis</item>
+                     <item>Rosser Thomas</item>
+                     <item>Lewelin David</item>
+                     <item>Philip William</item>
+                     <item>Edmund Harry</item>
+                     <item>Philip Thomas</item>
+                     <item>Rice John David</item>
+                     <item>Meredith Thom.</item>
+                     <item>David Evan</item>
+                     <item>Philip Thomas</item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>From the Church of Christ at</hi> Lan<g ref="char:EOLhyphen"/>gom <hi>in</hi> Pem<g ref="char:EOLhyphen"/>broke-shire, <date>
+                     <hi>the</hi> 11. <hi>Moneth,</hi> 17. <hi>day,</hi> 1655.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>John William</item>
+                     <item>Morgan William</item>
+                     <item>Patrick Walter</item>
+                     <item>Gibbon William</item>
+                     <item>John Howel</item>
+                     <item>Nathaniel Ripid</item>
+                     <item>John Evans</item>
+                     <item>Samuel Lort</item>
+                     <item>Robert White</item>
+                     <item>Thomas Elliot</item>
+                     <item>Henry Garlake</item>
+                     <item>Edward Wills</item>
+                     <item>Richard Lort</item>
+                     <item>Giles Denham</item>
+                     <item>Abel Bishop</item>
+                     <item>Griffith Howel</item>
+                     <item>Rice Price</item>
+                     <item>Robert Tennant</item>
+                     <item>Thomas Warren</item>
+                     <item>Stephen Young</item>
+                     <item>Joh. Elliot junior</item>
+                     <item>Thomas Howel</item>
+                     <item>William Hughs</item>
+                     <item>William Steward</item>
+                     <item>David Dyer</item>
+                     <item>James Picton</item>
+                     <item>Jenkin Jones</item>
+                     <item>William Moyl</item>
+                     <item>Thomas Wills</item>
+                     <item>Edward Morris.</item>
+                     <item>Edward Carver</item>
+                     <item>John Sayes</item>
+                     <item>Christop. Jackson</item>
+                     <item>Humph. Gunter</item>
+                     <item>Erasmus Hicks</item>
+                     <item>Anthony Stocks</item>
+                     <item>John Lewis</item>
+                     <item>Owen Young</item>
+                     <item>Thomas Melets</item>
+                     <item>John Luntley</item>
+                     <item>Robert Peiest</item>
+                     <item>Richard Brown</item>
+                     <item>Stephen Love</item>
+                     <item>Peregrine Philips</item>
+                     <item>Thomas Smith</item>
+                     <item>Richard Rayler</item>
+                     <item>Edmond Thomas</item>
+                     <item>Walter William</item>
+                     <item>William Watkin</item>
+                     <item>Ros. Tho. Griffith</item>
+                     <item>Evan Lewes</item>
+                     <item>Rice Harry</item>
+                     <item>James Richard</item>
+                     <item>Thomas William</item>
+                     <pb n="10" facs="tcp:118968:7"/>
+                     <item> Philip Lewis</item>
+                     <item>James Lewis</item>
+                     <item>Morgan Rosser</item>
+                     <item>Thomas Evans</item>
+                     <item>Nicholas Watkin</item>
+                     <item>Lewis Rice</item>
+                     <item>William Evan</item>
+                     <item>Rice John Lewis</item>
+                     <item>James Rosser</item>
+                     <item>Harry Llwelin</item>
+                     <item>John Rees</item>
+                     <item>Wil. John Rosser</item>
+                     <item>Harry Lewis</item>
+                     <item>Ros. Tho. Willia.</item>
+                     <item>Tho. Edw. Tho.</item>
+                     <item>Wil. John Morg.</item>
+                     <item>Thomas Edwards</item>
+                     <item>Thomas Jones</item>
+                     <item>John David</item>
+                     <item>John Thomas</item>
+                     <item>Edward Morgan</item>
+                     <item>David Morgan</item>
+                     <item>John Davies</item>
+                     <item>Rosser Watkin</item>
+                     <item>John Lewis</item>
+                     <item>Watkin Harry</item>
+                     <item>Thomas Howell</item>
+                     <item>Lewis Llevvelin</item>
+                     <item>Philip Rees</item>
+                     <item>Edmund Evan</item>
+                     <item>Iohn Jones</item>
+                     <item>Edmund Morgan</item>
+                     <item>Thomas William</item>
+                     <item>Elias Harry</item>
+                     <item>Evan William</item>
+                     <item>Thomas Morgan</item>
+                     <item>Watk. Ioh. Philip</item>
+                     <item>Harry Morgan</item>
+                     <item>William David</item>
+                     <item>Levvis David</item>
+                     <item>Thomas Evan</item>
+                     <item>Thomas David</item>
+                     <item>John Philip Wil.</item>
+                     <item>Thom. Rovvland</item>
+                     <item>Rovvland Robert</item>
+                     <item>William Rithersh</item>
+                     <item>Walter George</item>
+                     <item>Henry Morgan</item>
+                     <item>John Harbert</item>
+                     <item>Joshua Miller</item>
+                     <item>Thomas William</item>
+                     <item>Watkin Benedict</item>
+                     <item>David John</item>
+                     <item>Lavvrence Reece</item>
+                     <item>Lew. Hary Watki.</item>
+                     <item>Edvvard Levvis</item>
+                     <item>Harry Edmond</item>
+                     <item>Harry John</item>
+                     <item>Reynald Morgan</item>
+                     <item>Rice John Levvis</item>
+                     <item>Wil. Wat. Rosser</item>
+                     <item>Harry Evan Harry</item>
+                     <item>Tho. John Rosser</item>
+                     <item>Evan Rosser</item>
+                     <item>Gregory David</item>
+                     <item>Rice Philip</item>
+                     <item>Levvis Ros. Wat.</item>
+                     <item>Will. Benedick</item>
+                     <item>Thomas Reece</item>
+                     <item>William Green</item>
+                     <item>John Myles</item>
+                     <item>David Davies</item>
+                     <item>William Thomas</item>
+                     <item>Morgan Iones</item>
+                     <item>Iohn Price</item>
+                     <item>Levvis Thomas</item>
+                     <item>Iohn Thomas</item>
+                     <item>Evan Bovven</item>
+                     <item>Hovvel Griffith</item>
+                     <item>Thomas Iones</item>
+                     <item>Iohn Williams</item>
+                     <item>Iohn Beaban</item>
+                     <item>David Thomas</item>
+                     <item>Thomas ab Evan</item>
+                     <item>David Hopkin</item>
+                     <item>Ovven Levvelin</item>
+                     <item>David Hopkin</item>
+                     <item>Evan Thomas</item>
+                     <item>Edvvard Robert</item>
+                     <item>Thomas Hopkin</item>
+                     <item>William Nicolas</item>
+                     <item>Iohn Morgan</item>
+                     <item>Sim. Butler</item>
+                     <item>Philip Iohn</item>
+                     <item>William Thomss</item>
+                     <item>David Thomas</item>
+                     <pb n="11" facs="tcp:118968:7"/>
+                     <item> Robert Matthews</item>
+                     <item>Charles Morgan</item>
+                     <item>Philip Ienkin</item>
+                     <item>Willia. Mathew</item>
+                     <item>William Morgan</item>
+                     <item>Hugh Bayly</item>
+                     <item>William Morgan</item>
+                     <item>David Griffith</item>
+                     <item>Owen Dowl</item>
+                     <item>Thomas Hopkin</item>
+                     <item>Richard Edward</item>
+                     <item>Thomas Iohn</item>
+                     <item>Ienkin Franklin</item>
+                     <item>Iohn Knayth</item>
+                     <item>Nicholas Tanner</item>
+                     <item>William Rees</item>
+                     <item>Moses Whityard</item>
+                     <item>Reese Pue</item>
+                     <item>George Williams</item>
+                     <item>William Badcock</item>
+                     <item>Evan Iohn</item>
+                     <item>Edward William</item>
+                     <item>Roger Thomas</item>
+                     <item>Howel Iohn</item>
+                     <item>Evan Lewelin</item>
+                     <item>Iohn David</item>
+                     <item>Leison David</item>
+                     <item>Iohn Davies</item>
+                     <item>Morgan Iones</item>
+                     <item>George Rood</item>
+                     <item>Philip Ione</item>
+                     <item>Lewelin Evan</item>
+                     <item>David Lawrence</item>
+                     <item>Hugh Matthew</item>
+                     <item>William Thomas</item>
+                     <item>Evan Tory</item>
+                     <item>Robert Edward</item>
+                     <item>Iohn Givelin</item>
+                     <item>Richard Else</item>
+                     <item>George Harry</item>
+                     <item>Hopkin David</item>
+                     <item>Philip David</item>
+                     <item>Griffith Bowen</item>
+                     <item>Francis Williams</item>
+                     <item>Howel Iones</item>
+                     <item>Reynold Thomas</item>
+                     <item>Robert Callow</item>
+                     <item>William Philips</item>
+                     <item>Iames Philips</item>
+                     <item>Robert Morgan</item>
+                     <item>David William</item>
+                     <item>Morris Iohn</item>
+                     <item>David Morgan</item>
+                     <item>William Philip</item>
+                     <item>David Ienkin</item>
+                     <item>Daniel William</item>
+                     <item>Ieavan William</item>
+                     <item>Lewis Richard</item>
+                     <item>Will. Huddliston</item>
+                     <item>Abeding. Godfre</item>
+                     <item>Morgan Awbre</item>
+                     <item>Henry Griffith</item>
+                     <item>Thomas Proud</item>
+                     <item>Morgan Robert</item>
+                     <item>Thomas Beevan</item>
+                     <item>William Thomas</item>
+                     <item>Griffith William</item>
+                     <item>Vincent Powel</item>
+                     <item>Will. Watkins</item>
+                     <item>Thom. Watkins</item>
+                     <item>Will. Watkins</item>
+                     <item>Rice Powel</item>
+                     <item>William Proserp</item>
+                     <item>Owen Parry Iohn</item>
+                     <item>Howel Iones</item>
+                     <item>Lewis Thomas</item>
+                     <item>Thomas Prosser</item>
+                     <item>Watkin Thomas</item>
+                     <item>Ienkin Morgan</item>
+                     <item>Watkin Philips</item>
+                     <item>Watkin Lewis</item>
+                     <item>William Prichard</item>
+                     <item>Thomas William</item>
+                     <item>Thomas Ienkin</item>
+                     <item>Wil. VVatkin</item>
+                     <item>David Rogers</item>
+                     <item>Roer Iones</item>
+                     <item>VVatkin Thomas</item>
+                     <item>Humph. George</item>
+                     <item>VVilliam Price</item>
+                     <item>Richard Powel</item>
+                     <item>William Powel</item>
+                     <item>Thomas Powel</item>
+                     <item>William Parry</item>
+                     <item>Thomas David</item>
+                     <pb n="12" facs="tcp:118968:8"/>
+                     <item>
+                        <hi>VVilliam Philip</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Prees</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Griffiths</hi>
+                     </item>
+                     <item>
+                        <hi>John Medith</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Prosser</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lloid</hi>
+                     </item>
+                     <item>
+                        <hi>William Morgans</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Pugh</hi>
+                     </item>
+                     <item>
+                        <hi>David Pugh</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Bruhord</hi>
+                     </item>
+                     <item>
+                        <hi>Lewellin William</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Fainton</hi>
+                     </item>
+                     <item>
+                        <hi>James Philips</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Rydley</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Coslat</hi>
+                     </item>
+                     <item>
+                        <hi>Charles Rosser</hi>
+                     </item>
+                     <item>
+                        <hi>Rog. Thom. Badam</hi>
+                     </item>
+                     <item>
+                        <hi>Philip VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Rosser</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis Jenkin</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Gibbon</hi>
+                     </item>
+                     <item>
+                        <hi>VVil. Joh. Morg.</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Badam</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Edward</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis Joh. Howel</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Howel Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>John Rosser</hi>
+                     </item>
+                     <item>
+                        <hi>William Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Andrew Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Mirick David</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>Ric: John</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Price</hi>
+                     </item>
+                     <item>
+                        <hi>VVatkin Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: VVilliams</hi>
+                     </item>
+                     <item>
+                        <hi>Rees David</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Creed</hi>
+                     </item>
+                     <item>
+                        <hi>Io: Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Edmund</hi>
+                     </item>
+                     <item>
+                        <hi>Watkin Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>Ienkin Watkin</hi>
+                     </item>
+                     <item>
+                        <hi>William Watkin</hi>
+                     </item>
+                     <item>
+                        <hi>Rosser Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Rees Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Edmoud David</hi>
+                     </item>
+                     <item>
+                        <hi>Rosser William</hi>
+                     </item>
+                     <item>
+                        <hi>Harry Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas William</hi>
+                     </item>
+                     <item>
+                        <hi>William Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Rosser</hi>
+                     </item>
+                     <item>
+                        <hi>Renald William</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Watkin</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Parry</hi>
+                     </item>
+                     <item>
+                        <hi>VVatkin Harry</hi>
+                     </item>
+                     <item>
+                        <hi>Io. Rosser</hi>
+                     </item>
+                     <item>
+                        <hi>Io. VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Renald Wil. Preet</hi>
+                     </item>
+                     <item>
+                        <hi>Andrew Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Io. Mredith</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Iames</hi>
+                     </item>
+                     <item>
+                        <hi>Meredith Richard</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Griffith</hi>
+                     </item>
+                     <item>
+                        <hi>VValter Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Philip</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam David</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Ien: R. VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Knaeth</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn David</hi>
+                     </item>
+                     <item>
+                        <hi>Owen VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lloid</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Frood</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Raterd</hi>
+                     </item>
+                     <item>
+                        <hi>Rees Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>Michael Howard</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Rice</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Howel</hi>
+                     </item>
+                     <item>
+                        <hi>Ien. Griffith</hi>
+                     </item>
+                     <item>
+                        <hi>Lewellin Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Humphrey Philips</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Parry</hi>
+                     </item>
+                     <item>
+                        <hi>VVill. VVatkin</hi>
+                     </item>
+                     <item>
+                        <hi>Owen Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Lewellen</hi>
+                     </item>
+                     <item>
+                        <hi>Matthew Hodson</hi>
+                     </item>
+                     <item>
+                        <hi>VValter Prosser</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. VVilliam</hi>
+                     </item>
+                     <pb n="13" facs="tcp:118968:8"/>
+                     <item>
+                        <hi>VVilliam Hugh's</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Lacok</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Pember</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Clark</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Mason</hi>
+                     </item>
+                     <item>
+                        <hi>Eustance Mason</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Matthews</hi>
+                     </item>
+                     <item>
+                        <hi>John Lurcot</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Heigh</hi>
+                     </item>
+                     <item>
+                        <hi>James Lacock</hi>
+                     </item>
+                     <item>
+                        <hi>James Crews</hi>
+                     </item>
+                     <item>
+                        <hi>Walter Edwards</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Watkin</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Prosser</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Bevan</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas VVatkin</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Prosser</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Philip</hi>
+                     </item>
+                     <item>
+                        <hi>John Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Prosser</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas VVilliams</hi>
+                     </item>
+                     <item>
+                        <hi>VVatkin Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Rees Price</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Bevor</hi>
+                     </item>
+                     <item>
+                        <hi>Howel Yohan</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>Iames London</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Landon</hi>
+                     </item>
+                     <item>
+                        <hi>Iames VVilliams</hi>
+                     </item>
+                     <item>
+                        <hi>VVatkin Brown</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Lewis</hi>
+                     </item>
+                     <item>
+                        <hi>Harry Rees</hi>
+                     </item>
+                     <item>
+                        <hi>VVatkin VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Oliver Gilbert</hi>
+                     </item>
+                     <item>
+                        <hi>David Francis</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Roger Jones</hi>
+                     </item>
+                     <item>
+                        <hi>Christopher Price</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Edward</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Richard</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lewes</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Owsley</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Gunter</hi>
+                     </item>
+                     <item>
+                        <hi>Rosser Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Parry</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Rogers</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Parry</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis Hughes</hi>
+                     </item>
+                     <item>Abergaveny</item>
+                     <item>
+                        <hi>VValter Sampson</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Harry</hi>
+                     </item>
+                     <item>
+                        <hi>Griffith Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>VVilliam Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Howel Lawrence</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Richard</hi>
+                     </item>
+                     <item>
+                        <hi>Reynold Tumlin</hi>
+                     </item>
+                     <item>
+                        <hi>VValter VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Edward VVater</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Griffith</hi>
+                     </item>
+                     <item>
+                        <hi>Harry Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>VVil. Nicholas</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn David</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Iones</hi>
+                     </item>
+                     <item>
+                        <hi>VVil. Davis</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Abbot</hi>
+                     </item>
+                     <item>
+                        <hi>VVil. Prichard</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Rosser</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Giles</hi>
+                     </item>
+                     <item>
+                        <hi>VVal. VVilliams</hi>
+                     </item>
+                     <item>
+                        <hi>VVill. Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Andrew Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Samson Ienkin</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis Samson,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas VVilliam,</hi>
+                     </item>
+                     <item>
+                        <hi>Ioshua Rosser</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Gibeon</hi>
+                     </item>
+                     <item>
+                        <hi>VValter VVill.</hi>
+                     </item>
+                     <item>
+                        <hi>Villiam Beran</hi>
+                     </item>
+                     <item>
+                        <hi>Morris Philip</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Hughs,</hi> Sen.</item>
+                     <item>
+                        <hi>Steven Hughs</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Ienkins</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Davies</hi>
+                     </item>
+                     <item>
+                        <hi>David VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>David Harry</hi>
+                     </item>
+                     <item>
+                        <hi>David Morris</hi>
+                     </item>
+                     <item>
+                        <hi>VVal. Richard</hi>
+                     </item>
+                     <item>
+                        <hi>Harry VVilliam</hi>
+                     </item>
+                     <item>
+                        <hi>Nich. Richard</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Nicholas</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Griffith</hi>
+                     </item>
+                     <pb n="14" facs="tcp:118968:9"/>
+                     <item>
+                        <hi>Samuel Iones</hi>
+                     </item>
+                     <item>
+                        <hi>Ien. Daukings</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Rice</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas ap Owen</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn William</hi>
+                     </item>
+                     <item>
+                        <hi>Ievan ap Owen</hi>
+                     </item>
+                     <item>
+                        <hi>Dav. Wil. Philip</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Rees Evan</hi>
+                     </item>
+                     <item>
+                        <hi>David Evan</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Ievan</hi>
+                     </item>
+                     <item>
+                        <hi>David Richard</hi>
+                     </item>
+                     <item>
+                        <hi>Wil. Rees</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Dan. griffith</hi>
+                     </item>
+                     <item>
+                        <hi>Rees David</hi>
+                     </item>
+                     <item>
+                        <hi>David Griffith</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Evan</hi>
+                     </item>
+                     <item>
+                        <hi>William David</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Powel</hi>
+                     </item>
+                     <item>
+                        <hi>Meredith Davis</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Davis</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas David</hi>
+                     </item>
+                     <item>
+                        <hi>Rice Iohns</hi>
+                     </item>
+                     <item>
+                        <hi>Drahern Evan</hi>
+                     </item>
+                     <item>
+                        <hi>David Iohns</hi>
+                     </item>
+                     <item>
+                        <hi>Dav. Matthew</hi>
+                     </item>
+                     <item>
+                        <hi>Owen David</hi>
+                     </item>
+                     <item>
+                        <hi>Rees Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Bowen</hi>
+                     </item>
+                     <item>
+                        <hi>Griffith Humphry</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Owen</hi>
+                     </item>
+                     <item>
+                        <hi>Rees Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Griffith Iohn</hi>
+                     </item>
+                     <item>
+                        <hi>Dav. Bowen</hi>
+                     </item>
+                     <item>
+                        <hi>Owen David</hi>
+                     </item>
+                     <item>
+                        <hi>Morgan Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Evan</hi>
+                     </item>
+                     <item>
+                        <hi>Evan Morgan</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Walter</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Hugh</hi>
+                     </item>
+                     <item>
+                        <hi>Dav. Hary</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Ezekias Thomas</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn David</hi>
+                     </item>
+                     <item>
+                        <hi>Griffith Hopkin</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
